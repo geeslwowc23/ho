@@ -1,12 +1,12 @@
 #+title: Módulo con ejemplos de JEE, JSF y JPA
-#+author: Miguel Piña
+#+author: Ladron Camilo Meli
 #+date: [2017-03-30 jue 08:07]
 
 El presente repositorio contiene ejemplos de diversas tecnologías usadas para
 ejemplificar los conceptos vistos en las clases de laboratorio de Ingeniería de
 Software. Las tecnologías revisadas y que están dentro de este repositorio son:
 
-- Maven
+- Maven  (esto es un camio)
 - Java Persistence Api
 - Java Servlets
 - Java Server Faces
@@ -14,7 +14,7 @@ Software. Las tecnologías revisadas y que están dentro de este repositorio son
     - BootsFaces
 - Bootstrap
 
-* Compilando y usando el proyecto
+* Compilando y usando el proyecto 
 
 ** Preparando la base de datos
 
