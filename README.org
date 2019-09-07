@@ -6,7 +6,7 @@ El presente repositorio contiene ejemplos de diversas tecnologías usadas para
 ejemplificar los conceptos vistos en las clases de laboratorio de Ingeniería de
 Software. Las tecnologías revisadas y que están dentro de este repositorio son:
 
-- Maven  (esto es un camio) otro cambio cambio de cambio
+- Maven  (esto es un camio) otro cambio cambio de cambio aqui va el cambio 3.0
 - Java Persistence Api
 - Java Servlets
 - Java Server Faces
